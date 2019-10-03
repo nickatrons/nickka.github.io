@@ -14,6 +14,7 @@ body .wishes-container h1 {
 
 #wish-list li a {
 	color: black;
+	text-decoration: underline;
 }
 
 #wish-list li {
